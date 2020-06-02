@@ -1,6 +1,25 @@
-/* ________ RESET ________ */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+body {
+  background-color: goldenrod;
+}
+
+.ms_wrapper {
+  text-align: center;
+}
+
+.row {
+  background-color: white;
+  border-radius: 10px;
+  margin: 30px 0;
+  padding: 20px;
+}
+
+.ms_buttons {
+  padding: 30px 0;
+}
+.ms_buttons .ms_btn {
+  background-color: lightblue;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 5px 50px;
+  margin: 0 20px;
 }
